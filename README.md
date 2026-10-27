@@ -1,6 +1,6 @@
 # Halo
 
-A recovery, strain and sleep tracker with a smoked-glass design. You enter a few numbers each morning (from your phone's health app or any watch), and Halo works out:
+A recovery, strain and sleep tracker with a dark liquid-glass design. You enter a few numbers each morning (from your phone's health app or any watch), and Halo works out:
 
 - **Recovery** (0–100%) from HRV, resting heart rate and sleep, compared with your own 14-day norm
 - **Strain** (0–21) from your activities, using average heart rate when you have it and how hard it felt when you don't
@@ -10,7 +10,7 @@ A recovery, strain and sleep tracker with a smoked-glass design. You enter a few
 - **Journal insights**: how habits like alcohol or late caffeine shift your recovery
 - **Weekly report** comparing the last 7 days with the 7 before
 
-It is one self-contained file, `index.html`, with no build step and no dependencies beyond two Google Fonts.
+It is one self-contained file, `index.html`, with no build step and no dependencies beyond one Google Font.
 
 ## Running it
 
